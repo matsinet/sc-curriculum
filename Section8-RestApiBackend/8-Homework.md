@@ -29,4 +29,3 @@
 - [Review and understand HTTP Verbs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - [Review and understand the concept of Middleware](https://expressjs.com/en/guide/using-middleware.html)
 
-[Soda Machine Question](https://repl.it/@MattThomas6/Soda-Machine-Question?lite=true ':include :type=iframe')
